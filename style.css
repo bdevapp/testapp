@@ -1,0 +1,48 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+margin:0;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-image: url(header.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+   background-size: cover;
+ 
+}
+
+.text-st {
+color: white;
+text-transform: uppercase;
+
+ font-size: 1.5rem;
+ margin:0px;
+
+}
+.cont-pos {
+top: 34%;
+}
+.container {
+
+
+
+}
+
+.flexi {
+top: 55%;
+}
+
+.btn {
+text-align: center;
+background-color: red;
+color: black;
+border-radius: 40% 40% 40% 40%;
+}
+
+
